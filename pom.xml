@@ -13,7 +13,7 @@
 	<artifactId>lojagames</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lojagames</name>
-	<description>Projet Loja Games</description>
+	<description>Loja Games</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
